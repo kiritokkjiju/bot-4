@@ -2,11 +2,10 @@ const help = (prefix) => {
 	return `
 ╔══✪〘 INFO 〙✪══
 ║
-╠➥ 𝐅𝐎𝐗 𝐁𝐎𝐓
+╠➥ JL 𝐁𝐎𝐓
 ╠➥ *3.0*
-╠➥ 𝐃𝐎𝐍𝐎:  ⃬⃗𝑭𝑶𝑿  ☔
-╠➥ *wa.me/+5521979664189*
-╠➥ 𝐒𝐓𝐀𝐓𝐔𝐒: ON
+╠➥ 𝐃𝐎𝐍𝐎: MATHEUS SILVA╠➥ *wa.me/+557191698042*
+╠➥ 𝐒𝐓𝐀𝐓𝐔𝐒: ON 
 ║
 ╠══✪〘 NOVIDADES 〙✪══
 ║
@@ -296,14 +295,14 @@ const help = (prefix) => {
 ║
 ╠══✪〘 𝗗𝗢𝗡𝗢 〙✪══
 ║
-║ *NOME: 𝐹𝑂𝑋  ☔*
-║ *WPP: wa.me/+5521979664189*
-║ *YOUTUBE: Depois eu coloco
+║ *NOME: MATHEUS  ☔*
+║ *WPP: wa.me/+557191698042*
+║ *YOUTUBE: NAO TENHO
 ║
 ║  *"kibadores, vão se fuder"*
 ║
 ║
-╚═〘 𝐅𝐎𝐗 𝐁𝐎𝐓 〙`
+╚═〘 JL 𝐁𝐎𝐓 〙`
 }
 
 exports.help = help
