@@ -2706,7 +2706,7 @@ break
 				    try {
 						res = await fetchJson(`https://tobz-api.herokuapp.com/api/waifu`, {method: 'get'})
 						buffer = await getBuffer(res.image)
-						client.sendMessage(from, buffer, image, {quoted: mek, caption: 'ksksksks hmm'})
+						client.sendMessage(from, buffer, image, {quoted: mek, caption: 'kkkkkkkkk hmm'})
 					} catch (e) {
 						console.log(`Error :`, color(e,'red'))
 						reply('❌ *ERROR* ❌')
