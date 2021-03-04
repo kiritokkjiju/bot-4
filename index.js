@@ -315,7 +315,7 @@ proibido pornô gay       `
 					levelnol: '*error* 0 °-°',
 					error: {
 				stick: '*Bem, falhe, tente novamente ^_^*',
-				Iv: '𝗠𝗮𝗮𝗳 𝗹𝗶𝗻𝗸 𝘁𝗶𝗱𝗮𝗸 𝘃𝗮𝗹𝗶𝗱☹️'
+				Iv: 'o link ta inválido Vagabunda🙄'
 				},
 				only: {
 					group: '[❗] Este comando só pode ser usado em grupos! ❌',
@@ -332,10 +332,10 @@ proibido pornô gay       `
 
 			const botNumber = client.user.jid
 			const ownerNumber = [,"557381044096@s.whatsapp.net"] // replace this with your number
-			const mod = [ownerNumber,"557381044096@s.whatsapp.net"]//ubah nomor lo
+			const mod = [ownerNumber.["557381044096@s.whatsapp.net"]//ubah nomor lo
 			const adminbotnumber = ["557381044096@s.whatsapp.net"]//ubah nomor lo
 			const frendsowner = ["557381044096@s.whatsapp.net"]//ubah nomor lo
-			const premium = ["557191698042@s.whatsapp.net"]
+			const premium = ["557381044096@s.whatsapp.net"]
 			const isGroup = from.endsWith('@g.us')
 			const sender = isGroup ? mek.participant : mek.key.remoteJid
 			const groupMetadata = isGroup ? await client.groupMetadata(from) : ''
