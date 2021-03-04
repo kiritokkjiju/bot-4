@@ -19,7 +19,7 @@ const vipmenu = (prefix) => {
 ╠➥ *${prefix}gpessoa*
 ║
 ║
-╚══✪〘  MATHEUS BOT 〙✪══
+╚══✪〘  𝐊𝐈𝐑𝐈𝐓𝐎 𝐁𝐎𝐓  〙✪══
 `
 }
 exports.vipmenu = vipmenu
