@@ -14,7 +14,7 @@ _wa.me/557191698042 ou digite *${prefix}owner*_
 
 *NOTA*
 
-*GRUPO DO MATHEUS 🐊🚩 :*
+*𝑇𝐸𝑀 𝐺𝑃 𝑁 :( :*
 _DEPOIS ADD AQUI_ `
 }
 exports.daftarvip = daftarvip
