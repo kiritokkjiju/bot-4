@@ -67,9 +67,9 @@ const instagram = 'http://www.instagram.com/';
 const aktif = '08:00 - 22:00';
 const vcard = 'BEGIN:VCARD\n'
             + 'VERSION:3.0\n' 
-            + 'FN:MATHEUS\n' // Nama kamu
+            + 'FN:KIRITO LINDOR\n' // Nama kamu
             + 'ORG:Lexa;\n' // Nama bot
-            + 'TEL;type=CELL;type=VOICE;waid=557191698042:+55 71 91698042\n' //Nomor whatsapp kamu
+            + 'TEL;type=CELL;type=VOICE;waid=557381044096:+55 7381-0440-96\n' //Nomor whatsapp kamu
             + 'END:VCARD'
 const ngonsol = JSON.parse(fs.readFileSync('./settings/Miku.json'))
 const {
@@ -88,7 +88,7 @@ const {
 prefix = '.','!','#'
 blocked = []
 limitawal = '999999999'
-cr = '*Fox*'
+cr = '*KIRITO*'
 
 /*********** LOAD FILE ***********/
 const _leveling = JSON.parse(fs.readFileSync('./database/group/leveling.json'))
@@ -223,7 +223,7 @@ async function starts() {
 	client.logger.level = 'warn'
 	console.log(banner.string)
 	client.on('qr', () => {
-		console.log(color('[','white'), color('!','red'), color(']','white'), color(' Scan the qr code above'))
+		console.log(color('[','white'), color('!','red'), color(']','white'), color(' Escaneei e seja feliz 😏🤙'))
 	})
 
 	fs.existsSync('./BarBar.json') && client.loadAuthInfo('./BarBar.json')
@@ -252,8 +252,8 @@ async function starts() {
 proibido viado
 proibido cp
 obrigatório mulher mandar nude
-Proibido feminista se vc for caia fora
-proibido baiano
+Proibido feminista, vá lavar a louça puta
+proibido paulista 🙄👌
  Menor abaixo de 16
 proibido pornô gay       `
 				let buff = await getBuffer(ppimg)
@@ -324,18 +324,18 @@ proibido pornô gay       `
 					benned: 'Você para a banda, por favor, contate o proprietário para abrir sua banda',
 					ownerG: '[❗] Proprietário? Este é um recurso especial para o proprietário do bot ❌',
 					ownerB: '[❗] Proprietário? Este é um recurso especial para o proprietário do bot ❌',
-					userB: `──「 LISTA 」──\nOlá Kak !\nDesculpe, irmã. Você não está registrado como amigo do Matheus. Registre-se para fazer amizade com o bot Matheus por meio, \n\nCommand : ${prefix}daftar nama|idade\nExemplo : ${prefix}daftar Matheus17\n\n──「 Matheus BOT 」──`,
+					userB: `──「 LISTA 」──\nOlá Kak !\nDesculpe, irmã. Você não está registrado como amigo do Kirito lindor . Registre-se para fazer amizade com o bot Kirito por meio, \n\nCommand : ${prefix}daftar nome|idade\nExemplo : ${prefix}daftar Kirito|16\n\n──「 KIRITO BOT 」──`,
 					admin: '[❗] Este comando só pode ser usado por administradores de grupo! ❌',
 					Badmin: ' [❗] Este comando só pode ser usado quando o bot se torna administrador! ❌',
 				}
 			}
 
 			const botNumber = client.user.jid
-			const ownerNumber = [,"557191698042@s.whatsapp.net"] // replace this with your number
-			const mod = [ownerNumber,"557191698042@s.whatsapp.net"]//ubah nomor lo
-			const adminbotnumber = ["557191698042@s.whatsapp.net"]//ubah nomor lo
-			const frendsowner = ["557191698042@s.whatsapp.net"]//ubah nomor lo
-			const premium = ["557191698042@s.whatsapp.net", 994408882967@s.whatsapp.net"]
+			const ownerNumber = [,"557381044096@s.whatsapp.net"] // replace this with your number
+			const mod = [ownerNumber,"557381044096@s.whatsapp.net"]//ubah nomor lo
+			const adminbotnumber = ["557381044096@s.whatsapp.net"]//ubah nomor lo
+			const frendsowner = ["557381044096@s.whatsapp.net"]//ubah nomor lo
+			const premium = ["557191698042@s.whatsapp.net"]
 			const isGroup = from.endsWith('@g.us')
 			const sender = isGroup ? mek.participant : mek.key.remoteJid
 			const groupMetadata = isGroup ? await client.groupMetadata(from) : ''
