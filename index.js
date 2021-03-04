@@ -332,7 +332,7 @@ proibido pornô gay       `
 
 			const botNumber = client.user.jid
 			const ownerNumber = [,"557381044096@s.whatsapp.net"] // replace this with your number
-			const mod = [ownerNumber.["557381044096@s.whatsapp.net"]//ubah nomor lo
+			const mod = [ownerNumber."557381044096@s.whatsapp.net"]//ubah nomor lo
 			const adminbotnumber = ["557381044096@s.whatsapp.net"]//ubah nomor lo
 			const frendsowner = ["557381044096@s.whatsapp.net"]//ubah nomor lo
 			const premium = ["557381044096@s.whatsapp.net"]
