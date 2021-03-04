@@ -149,7 +149,7 @@ https://realsht.mobi/iJQbj
 • 100 Font Picsay/Pixelab
 https://realsht.mobi/hrTdE
 
-Fox domina ta? 🐊🚩
+kRT domina ta? 🐊🚩
 `
 }
 exports.modapk = modapk
